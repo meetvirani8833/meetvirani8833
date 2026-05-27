@@ -16,8 +16,6 @@ RAG-based system for automated query resolution from knowledge bases. Conversati
 Agent-driven dashboards that adapt to any uploaded dataset. Automated cleaning and validation pipeline handles schema inconsistencies and missing values before rendering analytics. Lowered preprocessing effort by 70%+.
 
 ## Contact
-
-## Contact
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-meetvirani8833-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetvirani8833/)
 [![Email](https://img.shields.io/badge/Email-meetvirani8833%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:meetvirani8833@gmail.com)
